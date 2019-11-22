@@ -10,3 +10,5 @@ On my website, you can read more about me and take a look at my:
 [Danielle Huynh's Website](img/website.png)
 
 ### Please contact me if you have any questions, or reach me at dhuyn016@ucr.edu 
+
+https://daniellehuynh.github.io/DanielleHuynh-Website/
